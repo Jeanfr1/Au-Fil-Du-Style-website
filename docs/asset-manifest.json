@@ -1,0 +1,173 @@
+{
+  "assets": [
+    {
+      "path": "images/originals/salon-proche-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.37.27.png",
+      "source_sha256": "5d8d81b2f20bc3176dcda954c55c8ac0b29cdbb788c6999e7fd6b36e2bd30759",
+      "sha256": "5d8d81b2f20bc3176dcda954c55c8ac0b29cdbb788c6999e7fd6b36e2bd30759",
+      "untouched_copy": true,
+      "role": "documentary_photo"
+    },
+    {
+      "path": "images/originals/salon-large-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.38.10.png",
+      "source_sha256": "6724a68ef188660f91294cf988fddb23fefa01dc1b6428c928905461fb75825f",
+      "sha256": "6724a68ef188660f91294cf988fddb23fefa01dc1b6428c928905461fb75825f",
+      "untouched_copy": true,
+      "role": "documentary_photo"
+    },
+    {
+      "path": "images/originals/carre-blond-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.37.36.png",
+      "source_sha256": "8a53f478155d8f90f86f43d1773eff38e0b1b28be3237d1e933a70e9355f343a",
+      "sha256": "8a53f478155d8f90f86f43d1773eff38e0b1b28be3237d1e933a70e9355f343a",
+      "untouched_copy": true,
+      "role": "documentary_photo"
+    },
+    {
+      "path": "images/originals/ondes-cuivrees-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.38.32.png",
+      "source_sha256": "4cc19eedc492f55ff35f426de202ec6cdde9f9ec8d54b3d8b242f91076f49677",
+      "sha256": "4cc19eedc492f55ff35f426de202ec6cdde9f9ec8d54b3d8b242f91076f49677",
+      "untouched_copy": true,
+      "role": "documentary_photo"
+    },
+    {
+      "path": "images/originals/ondes-blondes-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.38.38.png",
+      "source_sha256": "ed7c5155358deca47c2c0d5f8804545da339e0316cda86ad741c37011ae493c6",
+      "sha256": "ed7c5155358deca47c2c0d5f8804545da339e0316cda86ad741c37011ae493c6",
+      "untouched_copy": true,
+      "role": "documentary_photo"
+    },
+    {
+      "path": "images/originals/chignon-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.39.11.png",
+      "source_sha256": "d94e329c47e0776ff610ef30e6d5e7595db73f39ab7cd775a4493f69c50ba7cb",
+      "sha256": "d94e329c47e0776ff610ef30e6d5e7595db73f39ab7cd775a4493f69c50ba7cb",
+      "untouched_copy": true,
+      "role": "documentary_photo"
+    },
+    {
+      "path": "images/originals/instagram-informations-original.png",
+      "origin": "user_attachment",
+      "source_uploaded_name": "Screenshot 2026-10-28 at 22.38.57.png",
+      "source_sha256": "a1a3390bbd5e5c2dfd3b4b0c54903022a3305e1ca3f82318442963c838528111",
+      "sha256": "a1a3390bbd5e5c2dfd3b4b0c54903022a3305e1ca3f82318442963c838528111",
+      "untouched_copy": true,
+      "role": "business_reference"
+    },
+    {
+      "path": "site/assets/carre-blond.webp",
+      "origin": "format_derivative_of_user_attachment",
+      "dimensions": [
+        566,
+        1010
+      ],
+      "mode": "RGB",
+      "sha256": "94dfa30203f126e5142846824eb7b5b6ca12c6159af8382b81c58c1700faab53",
+      "quality": 95,
+      "retouched": false
+    },
+    {
+      "path": "site/assets/chignon.webp",
+      "origin": "format_derivative_of_user_attachment",
+      "dimensions": [
+        936,
+        1778
+      ],
+      "mode": "RGB",
+      "sha256": "f1416466e42c971dd542c1f8539457ca32d80aa47dd353472a3c4d1007d297f4",
+      "quality": 95,
+      "retouched": false
+    },
+    {
+      "path": "site/assets/hero-cheveux.webp",
+      "origin": "imagegen_derivative",
+      "dimensions": [
+        1060,
+        1484
+      ],
+      "mode": "RGBA",
+      "sha256": "071a86727d27a3ad23e719c82ddc86a49aeca39b7f4f330ec45cfbc527ae882d",
+      "quality": 95,
+      "retouched": true
+    },
+    {
+      "path": "site/assets/ondes-blondes.webp",
+      "origin": "format_derivative_of_user_attachment",
+      "dimensions": [
+        458,
+        712
+      ],
+      "mode": "RGB",
+      "sha256": "a60926425da06e2753272d4b9ba75f558708c3761b8311e9caea1508021bfbb1",
+      "quality": 95,
+      "retouched": false
+    },
+    {
+      "path": "site/assets/ondes-cuivrees.webp",
+      "origin": "format_derivative_of_user_attachment",
+      "dimensions": [
+        562,
+        870
+      ],
+      "mode": "RGB",
+      "sha256": "063ceebdacac03fcfa52672d3216c54743e6defdcee2bdf1651d146976866b70",
+      "quality": 95,
+      "retouched": false
+    },
+    {
+      "path": "site/assets/salon-large.webp",
+      "origin": "format_derivative_of_user_attachment",
+      "dimensions": [
+        1358,
+        626
+      ],
+      "mode": "RGB",
+      "sha256": "1d42b0f2c1c42a85fd79629370f413f023c6c0fcaa6ee54bed0221c9550f039a",
+      "quality": 95,
+      "retouched": false
+    },
+    {
+      "path": "site/assets/salon-proche.webp",
+      "origin": "format_derivative_of_user_attachment",
+      "dimensions": [
+        1342,
+        764
+      ],
+      "mode": "RGB",
+      "sha256": "3cb8c7a87a31d8c8232059c70f8ed1a6e659f117915519ba143966646f4ff763",
+      "quality": 95,
+      "retouched": false
+    },
+    {
+      "path": "images/master/hero-cheveux-detoure.png",
+      "origin": "image_gen",
+      "role": "campaign_foreground",
+      "documentary_result": false,
+      "sha256": "97c2acdcf36dde77aa6c4080c7c188a1d0272977488a95d511ab36f44a9d7f30"
+    },
+    {
+      "path": "brand/Logo-Au-Fil-Du-Style-Transparente.png",
+      "origin": "approved_image_gen_logo",
+      "role": "brand_master",
+      "sha256": "7900d5e0549a2409872b9688f098d6393864d4d5a72aa584b036e78fd0407313"
+    }
+  ],
+  "viewBoxes": {
+    "salon_large": "80 0 1190 626",
+    "salon_proche": "0 0 1220 764",
+    "blond_waves": "0 0 458 712",
+    "copper_waves": "0 80 562 790",
+    "bob_gallery": "0 110 566 900",
+    "updo_gallery": "0 220 936 1460"
+  },
+  "crop_method": "SVG viewBox: enquadramento não destrutivo, sem retoque dos originais."
+}

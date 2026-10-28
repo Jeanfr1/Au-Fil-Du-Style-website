@@ -1,0 +1,91 @@
+{
+  "cheveux": {
+    "width": 1060,
+    "height": 1484,
+    "widths": [
+      540,
+      760,
+      1060
+    ],
+    "v": "v1"
+  },
+  "salon": {
+    "width": 2716,
+    "height": 1252,
+    "widths": [
+      800,
+      1280,
+      1800,
+      2400
+    ],
+    "v": "v1"
+  },
+  "salon-proche": {
+    "width": 2684,
+    "height": 1528,
+    "widths": [
+      800,
+      1280,
+      1800,
+      2400
+    ],
+    "v": "v1"
+  },
+  "salon-proche-flou": {
+    "width": 2684,
+    "height": 1528,
+    "widths": [
+      480
+    ],
+    "v": "v1"
+  },
+  "ondes-blondes": {
+    "width": 1832,
+    "height": 2848,
+    "widths": [
+      560,
+      900,
+      1300,
+      1832
+    ],
+    "v": "v1"
+  },
+  "ondes-cuivrees": {
+    "width": 2248,
+    "height": 3160,
+    "widths": [
+      560,
+      900,
+      1300,
+      1800
+    ],
+    "v": "v1"
+  },
+  "carre-blond": {
+    "width": 1132,
+    "height": 1820,
+    "widths": [
+      640,
+      1132
+    ],
+    "v": "v1"
+  },
+  "chignon": {
+    "width": 936,
+    "height": 1778,
+    "widths": [
+      640,
+      936
+    ],
+    "v": "v1"
+  },
+  "logo": {
+    "width": 1635,
+    "height": 962,
+    "widths": [
+      360,
+      720
+    ],
+    "v": "v1"
+  }
+}

@@ -1,0 +1,14 @@
+# the kit stays in the repo (source of truth) but is never uploaded with a CLI deploy
+/images/originals
+/references
+/roteiros
+/docs
+/site
+/brand
+/fonts
+/motion
+/tools
+/MANIFEST.sha256
+/LEIA-ME-KIT.md
+/scripts/out
+/qa

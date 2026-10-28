@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-28",
+  "model": 1,
+  "status": "STATIC_CHECKS_PASS_BROWSER_QA_UNVERIFIED",
+  "checks": [
+    {
+      "check": "modelo 1 completo e cinco cenas",
+      "status": "PASS",
+      "scene_order": [
+        {
+          "id": "accueil",
+          "scene": "hero",
+          "background": "photograph"
+        },
+        {
+          "id": "salon",
+          "scene": "salon",
+          "background": "photograph"
+        },
+        {
+          "id": "savoir-faire",
+          "scene": "services-pervenche",
+          "background": "solid"
+        },
+        {
+          "id": "realisations",
+          "scene": "signatures",
+          "background": "photograph"
+        },
+        {
+          "id": "rendez-vous",
+          "scene": "reservation",
+          "background": "photograph"
+        }
+      ]
+    },
+    {
+      "check": "única seção lisa",
+      "status": "PASS"
+    },
+    {
+      "check": "idioma francês e um H1",
+      "status": "PASS"
+    },
+    {
+      "check": "IDs sem duplicatas",
+      "status": "PASS"
+    },
+    {
+      "check": "âncoras internas válidas",
+      "status": "PASS"
+    },
+    {
+      "check": "referências ARIA válidas",
+      "status": "PASS"
+    },
+    {
+      "check": "arquivos locais do site",
+      "status": "PASS"
+    },
+    {
+      "check": "links externos protegidos",
+      "status": "PASS"
+    },
+    {
+      "check": "destino real do agendamento",
+      "status": "PASS",
+      "booking_links": 8
+    },
+    {
+      "check": "données structurées cohérentes",
+      "status": "PASS"
+    },
+    {
+      "check": "prancha aprovada íntegra",
+      "status": "PASS"
+    },
+    {
+      "check": "escolha enviada íntegra",
+      "status": "PASS"
+    },
+    {
+      "check": "PNG aprovado preservado",
+      "status": "PASS"
+    },
+    {
+      "check": "links locais do guia",
+      "status": "PASS"
+    },
+    {
+      "check": "assets/fontes CSS locais",
+      "status": "PASS"
+    },
+    {
+      "check": "delimitadores CSS consistentes",
+      "status": "PASS"
+    },
+    {
+      "check": "pausa e movimento reduzido previstos",
+      "status": "PASS"
+    },
+    {
+      "check": "sintaxe JS app.js",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "check": "JS sem referência DOM inexistente app.js",
+      "status": "PASS"
+    },
+    {
+      "check": "sintaxe JS content.js",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "check": "JS sem referência DOM inexistente content.js",
+      "status": "PASS"
+    },
+    {
+      "check": "dados das três categorias",
+      "status": "PASS"
+    },
+    {
+      "check": "quatro fotos documentais",
+      "status": "PASS"
+    },
+    {
+      "check": "dimensões galeria Ondulations blondes",
+      "status": "PASS"
+    },
+    {
+      "check": "recorte dentro da fonte Ondulations blondes",
+      "status": "PASS"
+    },
+    {
+      "check": "dimensões galeria Ondulations cuivrées",
+      "status": "PASS"
+    },
+    {
+      "check": "recorte dentro da fonte Ondulations cuivrées",
+      "status": "PASS"
+    },
+    {
+      "check": "dimensões galeria Carré blond",
+      "status": "PASS"
+    },
+    {
+      "check": "recorte dentro da fonte Carré blond",
+      "status": "PASS"
+    },
+    {
+      "check": "dimensões galeria Coiffure événementielle",
+      "status": "PASS"
+    },
+    {
+      "check": "recorte dentro da fonte Coiffure événementielle",
+      "status": "PASS"
+    },
+    {
+      "check": "logo 1635×962 RGBA",
+      "status": "PASS"
+    },
+    {
+      "check": "logo tem alfa real",
+      "status": "PASS",
+      "transparent_percent": 91.801
+    },
+    {
+      "check": "cantos transparentes da logo",
+      "status": "PASS"
+    },
+    {
+      "check": "Hero com alfa real",
+      "status": "PASS",
+      "dimensions": [
+        1060,
+        1484
+      ]
+    },
+    {
+      "check": "WebP do Hero preserva dimensão e alfa",
+      "status": "PASS"
+    },
+    {
+      "check": "SVG nativo Avatar-Social.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "SVG nativo Symbole-Pervenche.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "SVG nativo Logo-Au-Fil-Du-Style-Porcelaine.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "SVG nativo Symbole-Porcelaine.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "SVG nativo Symbole-Encre.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "SVG nativo Logo-Au-Fil-Du-Style-Encre.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "SVGs fotográficos inline válidos",
+      "status": "PASS"
+    },
+    {
+      "check": "sete originais preservados",
+      "status": "PASS"
+    },
+    {
+      "check": "hashes do inventário de assets",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte WOFF BodoniModa-Regular.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte WOFF InstrumentSans-Medium.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte WOFF InstrumentSans-Regular.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte WOFF InstrumentSans-SemiBold.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte WOFF BodoniModa-Italic.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "licença BodoniModa-OFL.txt",
+      "status": "PASS"
+    },
+    {
+      "check": "licença InstrumentSans-OFL.txt",
+      "status": "PASS"
+    },
+    {
+      "check": "fontes oficiais e hashes",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 320px en mouvement.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 320px Caractère.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 360px en mouvement.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 360px Caractère.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 375px en mouvement.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 375px Caractère.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 390px en mouvement.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 390px Caractère.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 430px en mouvement.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 430px Caractère.",
+      "status": "PASS"
+    },
+    {
+      "check": "imagens e JSON legíveis",
+      "status": "PASS",
+      "images": 21,
+      "json": 9
+    },
+    {
+      "check": "sem vídeo ou sequências animadas",
+      "status": "PASS"
+    },
+    {
+      "check": "sem modelos não escolhidos",
+      "status": "PASS"
+    },
+    {
+      "check": "README e seis roteiros",
+      "status": "PASS"
+    },
+    {
+      "check": "paleta e timeline alinhadas",
+      "status": "PASS"
+    },
+    {
+      "check": "nenhuma API/CDN em runtime",
+      "status": "PASS"
+    },
+    {
+      "check": "local-only, sem ID de publicação",
+      "status": "PASS"
+    }
+  ],
+  "passed": 70,
+  "font_metric_support": [
+    {
+      "viewport": 320,
+      "text": "en mouvement.",
+      "estimated_width": 235.9,
+      "available": 280
+    },
+    {
+      "viewport": 320,
+      "text": "Caractère.",
+      "estimated_width": 238.3,
+      "available": 280
+    },
+    {
+      "viewport": 360,
+      "text": "en mouvement.",
+      "estimated_width": 264.6,
+      "available": 320
+    },
+    {
+      "viewport": 360,
+      "text": "Caractère.",
+      "estimated_width": 269.7,
+      "available": 320
+    },
+    {
+      "viewport": 375,
+      "text": "en mouvement.",
+      "estimated_width": 276.2,
+      "available": 327
+    },
+    {
+      "viewport": 375,
+      "text": "Caractère.",
+      "estimated_width": 312.8,
+      "available": 327
+    },
+    {
+      "viewport": 390,
+      "text": "en mouvement.",
+      "estimated_width": 287.7,
+      "available": 342
+    },
+    {
+      "viewport": 390,
+      "text": "Caractère.",
+      "estimated_width": 312.8,
+      "available": 342
+    },
+    {
+      "viewport": 430,
+      "text": "en mouvement.",
+      "estimated_width": 316.4,
+      "available": 382
+    },
+    {
+      "viewport": 430,
+      "text": "Caractère.",
+      "estimated_width": 320.8,
+      "available": 382
+    }
+  ],
+  "browser_qa": "UNVERIFIED — serviço de prévia indisponível; layout, cliques, teclado, performance não executados em navegador",
+  "preview_error": "sites-previewd mailbox is unavailable at /tmp/sites-previewd/requests",
+  "video_generated": false,
+  "deployed": false,
+  "limitations": [
+    "Métricas de fonte são estimativas estáticas, não screenshot ou prova de layout.",
+    "Primeiro plano do Hero é derivação de campanha, não nova realização documental."
+  ]
+}

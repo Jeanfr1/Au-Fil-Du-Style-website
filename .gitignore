@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+scripts/out/
+qa/
+*.log
+# third-party screenshot (Instagram profile with other people's posts): business reference only
+images/originals/instagram-informations-original.png

@@ -1,0 +1,31 @@
+AU FIL DU STYLE — MODELO 1 COMPLETO — L’ART DU MOUVEMENT
+
+O cliente aprovou o Hero E AS CINCO CENAS do modelo 1, na referência distribuída.
+Implemente/integre a base de site deste ZIP mantendo exatamente essa arquitetura.
+Não use Hero do 2/3, nem misture as seções de outras propostas ou projetos.
+
+1. Hero: fundo fotográfico real escurecido, cabelo em primeiro plano transparente,
+   arco SVG separado, título “Le style, en mouvement.” e Planity disponível.
+2. Salão: foto real ampla e “Le salon. Votre rythme.”
+3. Serviços: único fundo liso, pervenche, “Coupe. Couleur. Caractère.”
+   Índice editorial sem cards; categorias reais e detalhe acessível.
+4. Resultados: ondas loiras e acobreadas lado a lado como backgrounds,
+   “La couleur a du relief.” e acesso discreto à galeria.
+5. Reserva/rodapé: foto real, “On se voit au salon ?”, Planity e contato.
+
+Identidade: logo aprovada transparente, SVGs nativos e símbolo do mesmo desenho.
+Paleta #141E30, #A4B6E8, #F4F0E8 e detalhe #B88F65. Fontes Bodoni Moda e
+Instrument Sans locais, com licenças. Site todo em francês.
+
+SEM VÍDEO. Siga roteiros/02-animacao.md e motion/timeline.json para a composição
+2,5D e transições do próprio site. Não fingir rotação 3D real com uma foto.
+Respeite pausa e movimento reduzido, sem longos espaços vazios.
+
+Fotos originais no ZIP; WebPs de distribuição; recortes por SVG viewBox.
+O primeiro plano do Hero é uma derivação de campanha, não uma nova realização
+documental. Não inventar salão, equipe, resultados, preços ou depoimentos.
+
+O código é estático e editável, sem build, CDN ou backend. Revise todos os
+links e funções no navegador antes da publicação. A revisão em navegador
+nesta entrega está UNVERIFIED por indisponibilidade da infraestrutura de prévia.
+Leia README.md e o relatório de QA antes de declarar testes concluídos.

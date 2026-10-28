@@ -1,0 +1,61 @@
+{
+  "project": "Au Fil du Style",
+  "date": "2026-10-28",
+  "model": 1,
+  "name": "L’Art du Mouvement",
+  "selection": "Hero e corpo completos do modelo 1",
+  "reference": {
+    "path": "references/Modelo-1-Aprovado.png",
+    "sha256": "eb37c60dc597a59c916d683255639e206458165584154f52ed8cc327b772e46c"
+  },
+  "client_selection": {
+    "path": "references/Escolha-Cliente.png",
+    "sha256": "b9086f8f00f1d2b54a7477d646d7c3bdc56b1b1a89027b67dda343fe7a4ab1f6"
+  },
+  "logo": {
+    "path": "brand/Logo-Au-Fil-Du-Style-Transparente.png",
+    "sha256": "7900d5e0549a2409872b9688f098d6393864d4d5a72aa584b036e78fd0407313"
+  },
+  "scene_order": [
+    {
+      "id": "accueil",
+      "scene": "hero",
+      "background": "photograph"
+    },
+    {
+      "id": "salon",
+      "scene": "salon",
+      "background": "photograph"
+    },
+    {
+      "id": "savoir-faire",
+      "scene": "services-pervenche",
+      "background": "solid"
+    },
+    {
+      "id": "realisations",
+      "scene": "signatures",
+      "background": "photograph"
+    },
+    {
+      "id": "rendez-vous",
+      "scene": "reservation",
+      "background": "photograph"
+    }
+  ],
+  "single_solid_background": "savoir-faire",
+  "palette": {
+    "encre": "#141E30",
+    "pervenche": "#A4B6E8",
+    "porcelaine": "#F4F0E8",
+    "bois": "#B88F65"
+  },
+  "type": {
+    "headings": "Bodoni Moda",
+    "body": "Instrument Sans"
+  },
+  "visitor_language": "fr",
+  "animation_video": false,
+  "local_only": true,
+  "deployed": false
+}

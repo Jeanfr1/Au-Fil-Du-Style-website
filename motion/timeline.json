@@ -1,0 +1,42 @@
+{
+  "model": 1,
+  "name": "L’Art du Mouvement",
+  "type": "DOM, SVG, CSS et JavaScript — composition 2,5D",
+  "video": false,
+  "opening": {
+    "requires": ["polices chargées", "image du premier plan décodée", "scrollY inférieur à 24 px", "mouvement autorisé"],
+    "headline_line1": {"duration_ms":850,"delay_ms":80,"translate_y_from_px":24},
+    "headline_line2": {"duration_ms":950,"delay_ms":220,"translate_y_from_px":24},
+    "portrait": {"duration_ms":1150,"delay_ms":50,"translate_y_from_px":18,"opacity_from":0.35},
+    "halo": {"duration_ms":1000,"delay_ms":120,"opacity_from":0.25},
+    "cleanup_ms":1450,
+    "blocks_navigation":false
+  },
+  "hero_scroll": {
+    "runway_desktop_svh":166,
+    "runway_mobile_svh":150,
+    "progress":"clamp(-heroRect.top / (heroHeight - stageHeight), 0, 1)",
+    "copy_opacity":"1 - smoothstep(0.22, 0.65, progress)",
+    "copy_translate_y_px":[0,-32],
+    "portrait_translate_x_px":[0,20],
+    "portrait_scale":[1,1.045],
+    "portal":"smoothstep(0.34, 1, progress)",
+    "portrait_opacity":"1 - portal",
+    "halo_rotation_deg":[0,12],
+    "halo_translate_x_px":[0,-18],
+    "halo_opacity":"1 - smoothstep(0.72, 1, progress)",
+    "portal_circle_radius_percent":[0,145],
+    "portal_origin_desktop":"62% 48%",
+    "portal_origin_mobile":"60% 62%",
+    "pointer_translate_x_max_px":5,
+    "hidden_controls_become_inert":true
+  },
+  "section_photo_parallax": {"ratio_clamp":[-0.8,0.8],"desktop_multiplier_px":24,"mobile_multiplier_px":12},
+  "section_text_reveal": {"translate_y_px":18,"duration_ms":900,"intersection_threshold":0.12,"once":true},
+  "rendering":"requestAnimationFrame demandé par scroll, resize ou pointeur; aucune boucle permanente",
+  "reduced_motion": {"sticky":false,"extra_runway":false,"parallax":false,"intro":false,"all_content_visible":true},
+  "manual_pause":true,
+  "save_data_respected":true,
+  "persisted_preference_key":"aufil.motion.paused",
+  "not_implemented":"Rotation 3D réelle de tête, vidéo ou séquence de frames"
+}

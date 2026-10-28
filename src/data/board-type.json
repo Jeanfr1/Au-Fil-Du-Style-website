@@ -1,0 +1,381 @@
+{
+  "h1a": {
+    "text": "Le style,",
+    "font": "bodoni",
+    "size": 89.82,
+    "tracking": -0.0541,
+    "word": 0.0,
+    "baseline": 245,
+    "left": 39.0
+  },
+  "h1b": {
+    "text": "en mouvement.",
+    "font": "bodoni-i",
+    "size": 76.23,
+    "tracking": -0.0716,
+    "word": 0.0,
+    "baseline": 313,
+    "left": 39.0
+  },
+  "salon1": {
+    "text": "Le salon.",
+    "font": "bodoni",
+    "size": 77.95,
+    "tracking": -0.055,
+    "word": 0.0,
+    "baseline": 879,
+    "left": 30.0
+  },
+  "salon2": {
+    "text": "Votre rythme.",
+    "font": "bodoni-i",
+    "size": 35.9,
+    "tracking": -0.0684,
+    "word": 0.0,
+    "baseline": 920,
+    "left": 35.0
+  },
+  "svc1": {
+    "text": "Coupe.",
+    "font": "bodoni",
+    "size": 84.96,
+    "tracking": -0.0471,
+    "word": 0.0,
+    "baseline": 1074,
+    "left": 37.0
+  },
+  "svc2": {
+    "text": "Couleur.",
+    "font": "bodoni",
+    "size": 83.27,
+    "tracking": -0.048,
+    "word": 0.0,
+    "baseline": 1158,
+    "left": 37.0
+  },
+  "svc3": {
+    "text": "Caractère.",
+    "font": "bodoni-i",
+    "size": 85.82,
+    "tracking": -0.0725,
+    "word": 0.0,
+    "baseline": 1241,
+    "left": 36.0
+  },
+  "real1": {
+    "text": "La couleur",
+    "font": "bodoni",
+    "size": 93.21,
+    "tracking": -0.0536,
+    "word": 0.0,
+    "baseline": 1530,
+    "left": 116.0
+  },
+  "real2": {
+    "text": "a du relief.",
+    "font": "bodoni-i",
+    "size": 95.04,
+    "tracking": -0.0748,
+    "word": 0.0,
+    "baseline": 1617,
+    "left": 227.0
+  },
+  "book1": {
+    "text": "On se voit",
+    "font": "bodoni",
+    "size": 61.82,
+    "tracking": -0.0508,
+    "word": 0.0,
+    "baseline": 1839,
+    "left": 51.0
+  },
+  "book2": {
+    "text": "au salon ?",
+    "font": "bodoni-i",
+    "size": 61.78,
+    "tracking": -0.0717,
+    "word": 0.0,
+    "baseline": 1895,
+    "left": 51.0
+  },
+  "nav1": {
+    "text": "Le salon",
+    "font": "sans",
+    "ink": [
+      386,
+      27,
+      427,
+      39
+    ],
+    "size": 10.8,
+    "tracking": 0,
+    "baseline": 39.0,
+    "left": 385.0
+  },
+  "nav2": {
+    "text": "Savoir-faire",
+    "font": "sans",
+    "ink": [
+      445,
+      31,
+      495,
+      39
+    ],
+    "size": 10.81,
+    "tracking": -0.0661,
+    "baseline": 39.0,
+    "left": 444.0
+  },
+  "nav3": {
+    "text": "Réalisations",
+    "font": "sans",
+    "ink": [
+      513,
+      31,
+      565,
+      39
+    ],
+    "size": 10.67,
+    "tracking": -0.0477,
+    "baseline": 39.0,
+    "left": 512.0
+  },
+  "nav-cta": {
+    "text": "Prendre rendez-vous",
+    "font": "sans",
+    "ink": [
+      601,
+      31,
+      690,
+      39
+    ],
+    "size": 10.96,
+    "tracking": -0.0881,
+    "baseline": 39.0,
+    "left": 600.0
+  },
+  "hero-eyebrow": {
+    "text": "COIFFURE & BARBIER · PONTCHÂTEAU",
+    "font": "sans500",
+    "ink": [
+      40,
+      338,
+      352,
+      348
+    ],
+    "size": 10.42,
+    "tracking": 0.3681,
+    "baseline": 348.0,
+    "left": 40.0
+  },
+  "hero-cta": {
+    "text": "Prendre rendez-vous",
+    "font": "sans",
+    "ink": [
+      68,
+      389,
+      178,
+      399
+    ],
+    "size": 13.7,
+    "tracking": -0.0932,
+    "baseline": 399.0,
+    "left": 67.0
+  },
+  "salon-addr": {
+    "text": "6 rue Maurice Sambron · Pontchâteau",
+    "font": "sans",
+    "ink": [
+      499,
+      912,
+      697,
+      920
+    ],
+    "size": 10.67,
+    "tracking": 0.0454,
+    "baseline": 920.0,
+    "left": 499.0
+  },
+  "n1": {
+    "text": "01",
+    "font": "bodoni",
+    "ink": [
+      408,
+      999,
+      426,
+      1015
+    ],
+    "size": 20.78,
+    "tracking": -0.0988,
+    "baseline": 1015.0,
+    "left": 407.0
+  },
+  "s1": {
+    "text": "Coupe & coiffage",
+    "font": "bodoni",
+    "ink": [
+      408,
+      1028,
+      526,
+      1045
+    ],
+    "size": 16.67,
+    "tracking": -0.0588,
+    "baseline": 1041.0,
+    "left": 407.0
+  },
+  "d1": {
+    "text": "Un style qui vous ressemble.",
+    "font": "sans",
+    "ink": [
+      408,
+      1054,
+      555,
+      1063
+    ],
+    "size": 9.73,
+    "tracking": 0.0863,
+    "baseline": 1061.0,
+    "left": 407.0
+  },
+  "n2": {
+    "text": "02",
+    "font": "bodoni",
+    "ink": [
+      408,
+      1099,
+      432,
+      1115
+    ],
+    "size": 20.78,
+    "tracking": 0.06,
+    "baseline": 1115.0,
+    "left": 407.0
+  },
+  "s2": {
+    "text": "Couleur & balayage",
+    "font": "bodoni",
+    "ink": [
+      408,
+      1128,
+      546,
+      1145
+    ],
+    "size": 16.63,
+    "tracking": -0.0463,
+    "baseline": 1141.0,
+    "left": 407.0
+  },
+  "d2": {
+    "text": "Des nuances sur mesure.",
+    "font": "sans",
+    "ink": [
+      408,
+      1155,
+      538,
+      1163
+    ],
+    "size": 10.96,
+    "tracking": 0.0253,
+    "baseline": 1163.0,
+    "left": 407.0
+  },
+  "n3": {
+    "text": "03",
+    "font": "bodoni",
+    "ink": [
+      408,
+      1202,
+      432,
+      1218
+    ],
+    "size": 20.78,
+    "tracking": 0.095,
+    "baseline": 1218.0,
+    "left": 407.0
+  },
+  "s3": {
+    "text": "Barbe & rituels",
+    "font": "bodoni",
+    "ink": [
+      409,
+      1232,
+      515,
+      1245
+    ],
+    "size": 16.88,
+    "tracking": -0.0453,
+    "baseline": 1245.0,
+    "left": 407.0
+  },
+  "d3": {
+    "text": "Un soin, un style, une allure.",
+    "font": "sans",
+    "ink": [
+      408,
+      1258,
+      559,
+      1268
+    ],
+    "size": 10.81,
+    "tracking": 0.0511,
+    "baseline": 1266.0,
+    "left": 407.0
+  },
+  "real-eyebrow": {
+    "text": "BLONDS · BALAYAGES · NUANCES",
+    "font": "sans500",
+    "ink": [
+      249,
+      1649,
+      524,
+      1657
+    ],
+    "size": 10.81,
+    "tracking": 0.3464,
+    "baseline": 1657.0,
+    "left": 248.0
+  },
+  "book-cta": {
+    "text": "Prendre rendez-vous",
+    "font": "sans",
+    "ink": [
+      81,
+      1932,
+      186,
+      1941
+    ],
+    "size": 12.33,
+    "tracking": -0.0662,
+    "baseline": 1941.0,
+    "left": 80.0
+  },
+  "book-sub": {
+    "text": "Réserver sur Planity",
+    "font": "sans",
+    "ink": [
+      97,
+      1969,
+      198,
+      1978
+    ],
+    "size": 9.52,
+    "tracking": 0.0846,
+    "baseline": 1976.0,
+    "left": 96.0
+  },
+  "foot-addr": {
+    "text": "6 rue Maurice Sambron, 44160 Pontchâteau",
+    "font": "sans",
+    "ink": [
+      264,
+      2079,
+      516,
+      2088
+    ],
+    "size": 10.2,
+    "tracking": 0.1201,
+    "baseline": 2087.0,
+    "left": 264.0
+  }
+}

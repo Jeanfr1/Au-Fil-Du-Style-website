@@ -1,0 +1,26 @@
+{
+  "name": "au-fil-du-style-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Au Fil du Style — Coiffure & barbier, Pontchâteau. One-page site, model 1 « L’Art du Mouvement ».",
+  "scripts": {
+    "dev": "vite --port 4366",
+    "build": "vite build",
+    "preview": "vite preview --port 4367 --strictPort",
+    "prepare-images": "~/anaconda3/bin/python3 scripts/prepare-images.py",
+    "images": "node scripts/build-images.mjs",
+    "register": "~/anaconda3/bin/python3 scripts/register-board.py",
+    "fit-type": "python3 scripts/fit-type.py",
+    "qa": "node scripts/qa.mjs",
+    "compare": "node scripts/compare-board.mjs"
+  },
+  "dependencies": {
+    "lenis": "1.3.27"
+  },
+  "devDependencies": {
+    "playwright": "1.48.2",
+    "sharp": "0.33.5",
+    "vite": "6.4.5"
+  }
+}
