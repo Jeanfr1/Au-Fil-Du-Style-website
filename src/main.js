@@ -195,10 +195,16 @@ $$('[data-reveal="words"] > span').forEach((span) => {
 });
 const reveals = $$('[data-reveal]');
 if ('IntersectionObserver' in window) {
+  // on the board, wrappers like the footer have no box of their own (absolute children): watch a child that has one
+  const owner = new Map();
   const io = new IntersectionObserver((entries) => {
-    entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); } });
+    entries.forEach((e) => { if (e.isIntersecting) { owner.get(e.target).classList.add('is-in'); io.unobserve(e.target); } });
   }, { threshold: 0, rootMargin: '0px 0px -10% 0px' }); // threshold 0: wipe lines start clipped to a sliver
-  reveals.forEach((el) => io.observe(el));
+  reveals.forEach((el) => {
+    const target = el.getBoundingClientRect().height < 1 ? el.querySelector('a, img, .t') || el : el;
+    owner.set(target, el);
+    io.observe(target);
+  });
 } else {
   reveals.forEach((el) => el.classList.add('is-in'));
 }
